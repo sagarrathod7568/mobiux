@@ -1,4 +1,4 @@
-## mobiux
+## Mobiux
 `git clone https://github.com/sagarrathod7568/mobiux.git`
 
 `node index.js`
